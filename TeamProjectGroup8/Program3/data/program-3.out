@@ -1,0 +1,122 @@
+                            RETURNS REPORT                              PAGE: 01
+Trans Code Trans Amount Payment Type Store Number Invoice Number SKU Code
+S            $10.00     CA           01           XX-000001      SDFSKJ84MS09123
+S           $129.99     DB           01           AZ-000002      247R20EHF02EF8E
+S            $89.99     CR           01           AS-000003      WI8HRW8H43FJSHF
+L            $49.99     DB           01           AD-000004      LFW8H88W84HFW4F
+S            $20.00     CA           01           XX-000005      SDFSKJ84MS09123
+S           $149.99     CR           01           AZ-000006      247R20EHF02EF8E
+S            $29.99     DB           01           AS-000007      WI8HRW8H43FJSHF
+S            $10.00     CA           01           XX-000008      SDFSKJ84MS09123
+S           $129.99     DB           01           AZ-000009      247R20EHF02EF8E
+S            $89.99     CR           01           AS-000010      WI8HRW8H43FJSHF
+S            $10.00     CA           01           XX-000011      SDFSKJ84MS09123
+L          $1129.99     DB           01           AZ-000012      247R20EHF02EF8E
+L            $10.00     CA           01           XX-000101      SDFSKJ84MS09123
+S           $129.99     DB           01           AZ-000102      247R20EHF02EF8E
+S            $89.99     CR           01           AS-000103      WI8HRW8H43FJSHF
+L            $49.99     DB           01           BD-000104      LFW8H88W84HFW4F
+S            $20.00     CA           01           BX-000105      SDFSKJ84MS09123
+S           $149.99     CR           01           BZ-000106      247R20EHF02EF8E
+S            $10.00     CA           01           BX-000108      SDFSKJ84MS09123
+S           $129.99     DB           01           BZ-000109      247R20EHF02EF8E
+
+                            RETURNS REPORT                              PAGE: 02Trans Code Trans Amount Payment Type Store Number Invoice Number SKU Code
+S            $10.00     CA           01           BX-000111      SDFSKJ84MS09123
+S          $1129.99     DB           01           BZ-000112      247R20EHF02EF8E
+S             $9.99     CR           01           BS-000113      WI8HRW8H43FJSHF
+L            $49.99     DB           02           BD-000014      LFW8H88W84HFW4F
+S           $149.99     CR           02           AZ-000016      247R20EHF02EF8E
+S            $29.99     DB           02           AS-000017      WI8HRW8H43FJSHF
+S           $129.99     DB           02           BZ-000019      247R20EHF02EF8E
+S            $89.99     CR           02           AS-000023      WI8HRW8H43FJSHF
+L            $49.99     DB           02           BD-000024      LFW8H88W84HFW4F
+S            $20.00     CA           02           XX-000025      SDFSKJ84MS09123
+S           $149.99     CR           02           AZ-000026      247R20EHF02EF8E
+S            $29.99     DB           02           AS-000027      WI8HRW8H43FJSHF
+S            $10.00     CA           02           XX-000028      SDFSKJ84MS09123
+S           $129.99     DB           02           AZ-000029      247R20EHF02EF8E
+S            $10.00     CA           02           XX-000031      SDFSKJ84MS09123
+S          $1129.99     DB           02           AZ-000032      247R20EHF02EF8E
+L           $149.99     DB           02           AD-000034      LFW8H88W84HFW4F
+L            $49.99     DB           02           AD-000214      LFW8H88W84HFW4F
+S           $149.99     CR           02           AZ-000216      247R20EHF02EF8E
+S            $10.00     CA           02           XX-000201      AADFSKJ84MS0913
+
+                            RETURNS REPORT                              PAGE: 03Trans Code Trans Amount Payment Type Store Number Invoice Number SKU Code
+S            $89.99     CR           02           AS-000223      WI8HRW8H43FJSHF
+S            $20.00     CA           02           X3-000225      SDFSKJ84MS09123
+S           $149.99     CR           02           AZ-000226      247R20EHF02EF8E
+S            $29.99     DB           02           AS-000227      WI8HRW8H43FJSHF
+S            $10.00     CA           02           XX-000228      SDFSKJ84MS09123
+S           $129.99     DB           02           AZ-000229      247R20EHF02EF8E
+S            $89.99     CR           02           AS-000230      WI8HRW8H43FJSHF
+S            $10.00     CA           02           XX-000231      SDFSKJ84MS09123
+S          $1129.99     DB           02           AZ-000232      247R20EHF02EF8E
+S             $9.99     CR           02           AS-000233      WI8HRW8H43FJSHF
+S            $29.99     DB           02           AS-000337      WI8HRW8H43FJSH2
+S            $10.00     CA           03           XX-000401      SDFSKJ84MS09123
+S           $129.99     DB           03           AZ-000402      247R20EHF02EF8E
+S            $89.99     CR           03           AS-000403      WI8HRW8H43FJSHF
+L            $49.99     DB           03           AD-000404      LFW8H88W84HFW4F
+S            $20.00     CA           03           XX-000405      SDFSKJ84MS09123
+S           $149.99     CR           03           AZ-000406      247R20EHF02EF8E
+S            $29.99     DB           03           AS-000407      WI8HRW8H43FJSHF
+S           $129.99     DB           03           AZ-000409      247R20EHF02EF8E
+S            $89.99     CR           03           AS-000410      WI8HRW8H43FJSHF
+
+                            RETURNS REPORT                              PAGE: 04Trans Code Trans Amount Payment Type Store Number Invoice Number SKU Code
+S            $10.00     CA           03           XX-000411      SDFSKJ84MS09123
+L          $1129.99     DB           03           AZ-000412      247R20EHF02EF8E
+S             $9.99     CR           03           AS-000413      WI8HRW8H43FJSHF
+L            $10.00     CA           03           XX-000401      SDFSKJ84MS09123
+S           $129.99     DB           03           AZ-000402      247R20EHF02EF8E
+S            $89.99     CR           03           AS-000403      WI8HRW8H43FJSHF
+L            $49.99     DB           03           BD-000404      LFW8H88W84HFW4F
+S            $20.00     CA           07           BX-000405      SDFSKJ84MS09123
+S           $129.99     DB           07           BZ-000509      247R20EHF02EF8E
+S            $10.00     CA           07           BX-000511      SDFSKJ84MS09123
+S          $1129.99     DB           07           BZ-000512      247R20EHF02EF8E
+S             $9.99     CR           07           BS-000513      WI8HRW8H43FJSHF
+L            $49.99     DB           07           BD-000514      LFW8H88W84HFW4F
+S           $149.99     CR           07           AZ-000516      247R20EHF02EF8E
+S            $29.99     DB           07           AS-000517      WI8HRW8H43FJSHF
+S           $729.99     DB           07           BZ-000519      247R20EHF02EF8E
+S            $89.99     CR           07           AS-000523      WI8HRW8H43FJSHF
+L            $49.99     DB           07           BD-000524      LFW8H88W84HFW4F
+S            $20.00     CA           07           XX-000525      SDFSKJ84MS09123
+S           $149.99     CR           07           AZ-000526      247R20EHF02EF8E
+
+                            RETURNS REPORT                              PAGE: 05Trans Code Trans Amount Payment Type Store Number Invoice Number SKU Code
+S            $29.99     DB           07           AS-000527      WI8HRW8H43FJSHF
+S            $10.00     CA           07           XX-000528      SDFSKJ84MS09123
+S           $129.49     DB           07           AZ-000529      247R20EHF02EF8E
+S            $89.99     CR           07           AS-000530      WI8HRW8H43FJSHF
+S          $8010.00     CA           07           XX-000631      SDFSKJ84MS09123
+S          $1129.99     DB           07           AZ-000632      247R20EHF02EF8E
+L           $149.99     DB           07           AD-000634      LFW8H88W84HFW4F
+L            $49.99     DB           07           AD-000614      LFW8H88W84HFW4F
+S           $149.99     CR           07           AZ-000616      247R20EHF02EF8E
+S            $10.00     CA           07           XX-000601      AADFSKJ84MS0913
+S            $89.99     CR           07           AS-000623      WI8HRW8H43FJSHF
+L            $49.99     DB           07           AD-000624      LFW8H88W84HFW4F
+S            $20.00     CA           07           XX-000625      SDFSKJ84MS09123
+S           $149.99     CR           07           AZ-000626      247R20EHF02EF8E
+S            $29.99     DB           07           AS-000627      WI8HRW8H43FJSHF
+S            $10.00     CA           07           XX-000628      SDFSKJ84MS09123
+S           $129.99     DB           07           AZ-000629      247R20EHF02EF8E
+S            $89.99     CR           07           AS-000630      WI8HRW8H43FJSHF
+S            $10.00     CA           07           X3-000631      SDFSKJ84MS09123
+S          $1129.99     DB           07           AZ-000632      247R20EHF02EF8E
+
+                            RETURNS REPORT                              PAGE: 06Trans Code Trans Amount Payment Type Store Number Invoice Number SKU Code
+S             $9.99     CR           07           AS-000633      WI8HRW8H43FJSHF
+L           $149.99     DB           07           AD-000634      LFW8H88W84HFW4F
+S            $29.99     DB           07           AS-000637      WI8HRW8H43FJSH2
+
+TOTAL AMOUNT OF SALES:    85 TOTAL VALUE OF SALES:     $20708.91TOTAL AMOUNT OF LAYAWAYS: 18 TOTAL VALUE OF LAYAWAYS:   $3279.84
+PERCENT OF CASH PAYMENTS:   %27.18
+PERCENT OF CREDIT PAYMENTS: %28.16
+PERCENT OF DEBIT PAYMENTS:  %44.66
+TOTAL VALUE OF TAX:     $3118.54
+STORE NUMBER WITH THE MOST TRANSACTIONS: 07

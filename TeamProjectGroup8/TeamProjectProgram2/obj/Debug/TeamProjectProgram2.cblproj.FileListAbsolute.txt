@@ -1,0 +1,6 @@
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\TeamProjectProgram2\bin\Debug\TeamProjectProgram2.exe
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\TeamProjectProgram2\bin\Debug\TeamProjectProgram2.pdb
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\TeamProjectProgram2\obj\Debug\TeamProjectProgram2.cblprojResolveAssemblyReference.cache
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\TeamProjectProgram2\obj\Debug\TeamProjectProgram2.cblproj.CoreCompileInputs.cache
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\TeamProjectProgram2\obj\Debug\TeamProjectProgram2.exe
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\TeamProjectProgram2\obj\Debug\TeamProjectProgram2.pdb

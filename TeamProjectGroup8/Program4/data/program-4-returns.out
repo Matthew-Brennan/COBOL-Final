@@ -1,0 +1,22 @@
+                            RETURNS REPORT                              PAGE: 01
+Trans Code Trans Amount Payment Type Store Number Invoice Number SKU Code
+R            $24.99     CR           01           AS-000102      FLW8H4FW8H4FWF4
+R            $24.99     CR           01           BS-000102      FLW8H4FW8H4FWF4
+R            $29.99     DB           01           BS-000107      WI8HRW8H43FJSHF
+R            $89.99     CR           01           BS-000110      WI8HRW8H43FJSHF
+R            $20.00     CA           02           BX-000015      SDFSKJ84MS09123
+R            $24.99     CR           02           AS-000102      FLW8H4FW8H4FWF4
+R            $29.99     CA           02           XX-000035      SDFSKJ84MS09123
+R            $20.00     CA           02           XX-000215      SDFSKJ84MS09123
+R            $24.99     CR           02           AS-000202      FLW8H4FW8H4FWF4
+R           $124.99     CR           02           AS-000322      F4WO8JFO8W4JFW8
+R            $24.99     CR           03           B3-000402      FLW8H4FW8H4FWF4
+R            $89.99     CR           07           BS-000510      WI8HRW8H43FJSHF
+R            $20.00     CA           07           BX-000515      SDFSKJ84MS09123
+R            $24.99     CR           07           AS-000502      FLW8H4FW8H4FWF4
+R            $29.99     CA           07           XX-000635      SDFSKJ84MS09123
+R            $24.99     CR           07           AS-000602      FLW8H4FW8H4FWF4
+
+
+TOTAL AMOUNT OF RETURNS: 16TOTAL VALUE OF RETURNS:  $629.87
+TOTAL VALUE OF TAX:       $81.88

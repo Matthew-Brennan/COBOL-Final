@@ -1,0 +1,24 @@
+-6 -missing summary of number of records, number of good records, and number of error records to use to reconcile to other programs
+(output only shows 33 error, but should show total 152 with 116 good and 36 error records)
+
+Edits                                    14/20
+-4 -counts, amounts, percentages consistent, but incorrect due to edit issues (counts should be 83 sales, 18 Layaway, and 15 returns versus 85, 18, 16 due to edit issues)
+
+-2 -report shows 03 for total S&L records, and shows S records 85, and L records 18 (should be 101, 83, 18)
+
+-1 -percentages do not add up to 100.00%
+
+-2 -report does not show return counts and amounts
+
+SplitsandCounts                               11/20                  
+-1 -output has heading ‘Returns Report’, but detail looks like S&L report
+
+-4 -counts, amounts, percentages consistent, but incorrect due to edit issues (due to edit issues)
+
+S&L                                      10/15
+
+ 
+
+-4 -counts, amounts, percentages consistent, but incorrect due to edit issues (due to edit issues)
+
+Returns  

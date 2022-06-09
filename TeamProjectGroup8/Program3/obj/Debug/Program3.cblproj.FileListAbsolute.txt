@@ -1,0 +1,5 @@
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\Program3\bin\Debug\Program3.exe
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\Program3\bin\Debug\Program3.pdb
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\Program3\obj\Debug\Program3.cblproj.CoreCompileInputs.cache
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\Program3\obj\Debug\Program3.exe
+C:\Users\Hermione\Desktop\Winter\Mainframes\TeamProjectProgram2\Program3\obj\Debug\Program3.pdb

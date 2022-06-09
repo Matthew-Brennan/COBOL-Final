@@ -1,0 +1,108 @@
+ RECORD                 RECORD                      RECORD
+  LINE                 CONTENTS                     ERRORS
+ ------                 ------                      ------
+
+  14     S0000999CR01AS-0000A3WI8HRW8H43FJSHF  1 ERRORS FOUND
+                                               BAD INVOICE DATA
+
+  30     R0002499CR02BS-000212                 1 ERRORS FOUND
+                                               BAD SKU
+
+  34     S000100XCW02XX-000001AADFSKJ84MS0913  2 ERRORS FOUND
+                                               BAD TRANSACTION VALUE
+                                               BAD PAYMENT TYPE
+
+  44     S0008999CR02AS-0S0030WI8HRW8H43FJSHF  1 ERRORS FOUND
+                                               BAD INVOICE DATA
+
+  47     X000099XCR02AS-000033WI8HRW8H43FJSHF  2 ERRORS FOUND
+                                               BAD TRANSACTION CODE
+                                               BAD TRANSACTION VALUE
+
+  49     R0012499CR02AS-000122                 1 ERRORS FOUND
+                                               BAD SKU
+
+  51     X0014999CR02AZ-000036247R20EHF02EF8E  1 ERRORS FOUND
+                                               BAD TRANSACTION CODE
+
+  52     S0002999DW02AS-000037WI8HRW8H43FJSH2  1 ERRORS FOUND
+                                               BAD PAYMENT TYPE
+
+  54     R0002499CR02AS-000212                 1 ERRORS FOUND
+                                               BAD SKU
+
+  57     S0002999DW02AS-000217WI8HRW8H43FJSHF  1 ERRORS FOUND
+                                               BAD PAYMENT TYPE
+
+  59     X0012999DB02ZZ-000219247R20EHF02EF8E  1 ERRORS FOUND
+                                               BAD TRANSACTION CODE
+
+  61     L0004999DB02A3-000224LFW8H88W84HFW4F  1 ERRORS FOUND
+                                               BAD INVOICE DATA
+
+  72     L0014999DB12AD-000234LFW8H88W84HFW4F  1 ERRORS FOUND
+                                               BAD STORE NUMBER
+
+  74     R0002999CW02XX-000335SDFSKJ84MS09123  1 ERRORS FOUND
+                                               BAD PAYMENT TYPE
+
+  75     C0014999CR02AZ-000336247R20EHF02EF8E  1 ERRORS FOUND
+                                               BAD TRANSACTION CODE
+
+  81     R0002499CR13AS-000402FLW8H4FW8H4FWF4  1 ERRORS FOUND
+                                               BAD STORE NUMBER
+
+  85     S0001000CA13XX-000408SDFSKJ84MS09123  1 ERRORS FOUND
+                                               BAD STORE NUMBER
+
+  97     S0014999CR17BZ-000406247R20EHF02EF8E  1 ERRORS FOUND
+                                               BAD STORE NUMBER
+
+  98     R0002999DB07BS-00S407WI8HRW8H43FJSHF  1 ERRORS FOUND
+                                               BAD INVOICE DATA
+
+  99     S0001000CA07BX-00S508SDFSKJ84MS09123  1 ERRORS FOUND
+                                               BAD INVOICE DATA
+
+ 106     R0002499CR07BS-000512                 1 ERRORS FOUND
+                                               BAD SKU
+
+ 110     S007100XCW07XX-000501AADFSKJ84MS0913  2 ERRORS FOUND
+                                               BAD TRANSACTION VALUE
+                                               BAD PAYMENT TYPE
+
+ 123     S000099XCR07AS-000633WI8HRW8H43FJSHF  1 ERRORS FOUND
+                                               BAD TRANSACTION VALUE
+
+ 125     R0012499CR07AS-000722                 1 ERRORS FOUND
+                                               BAD SKU
+
+ 127     X0014999CR07AZ-000636247R20EHF02EF8E  1 ERRORS FOUND
+                                               BAD TRANSACTION CODE
+
+ 128     S0002999DW07AS-000637WI8HRW8H43FJSH2  1 ERRORS FOUND
+                                               BAD PAYMENT TYPE
+
+ 130     R0002499CR07AS-000612                 1 ERRORS FOUND
+                                               BAD SKU
+
+ 131     R0002400CA07XX-00S615SDFSKJ84MS09123  1 ERRORS FOUND
+                                               BAD INVOICE DATA
+
+ 133     S0002999DW07AS-000617WI8HRW8H43FJSHF  1 ERRORS FOUND
+                                               BAD PAYMENT TYPE
+
+ 135     W0012999DB07ZZ-000619247R20EHF02EF8E  1 ERRORS FOUND
+                                               BAD TRANSACTION CODE
+
+ 149     R0000499CR07AS-0N0622F4WO8JFO8W4JFW8  1 ERRORS FOUND
+                                               BAD INVOICE DATA
+
+ 150     R0002999CW07XX-000635SDFSKJ84MS09123  1 ERRORS FOUND
+                                               BAD PAYMENT TYPE
+
+ 151     X0014999CR07AZ-000636247R20EHF02EF8E  1 ERRORS FOUND
+                                               BAD TRANSACTION CODE
+
+
+      TOTAL ERRONEOUS RECORDS:   33
